@@ -144,7 +144,7 @@ export default function Home() {
                       className="bg-red-600 text-white px-6 py-2 rounded-r-md hover:bg-red-700"
                       type="submit"
                     >
-                      S'abonner
+                      S&apos;abonner
                     </button>
                   </div>
                 </form>
